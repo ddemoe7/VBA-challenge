@@ -1,5 +1,7 @@
-# VBA-challenge
+# VBA Scripting
 VBA Exercise - The VBA of Wall Street
+<br>
+<i>(VBA-challenge)</i>
 
 ## Background
 The goal of this assignment is to use VBA scripting to analyze stock market data. The stock market file contained three sheets with data from 2014, 2015 and 2016.
